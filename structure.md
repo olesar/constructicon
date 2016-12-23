@@ -77,18 +77,21 @@ e.g. <br/>
 * A: CLAUSE // B: _Кто бы говорил._
 
 ## Fixed idioms with slots
-* _у NP.gen_ [_еще_] [_и_] конь не валялся_ <br/>
-can be freely extended with other elements, cf. _У них здесь {там}_ конь вообще {совсем} еще не валялся.
+* _у NP.gen_ [_еще_] [_и_] _конь не валялся_ <br/>
+
+can be freely extended with other elements, cf. _У них здесь_ {_там_} _конь вообще_ {_совсем_} _еще не валялся_.
 
 ## Fixed idioms without slots
 no variable slots, although some variation in word order and "lexical substitution" is well known <br/>
 * _баба с возу, кобыле {мерину, мужикам} легче_
-include proverbs and sayings
+
+also include proverbs and sayings
 
 ## Precedent texts
 culturally anchored fixed expressions from movies, commercials, rhymes, etc.
 * _Шел. Подскользнулся. Упал. Закрытый перелом. Потерял сознание. Очнулся - гипс!_<br/>
  => _Шел, упал, очнулся - гипс!_
+ * _**Когда б вы знали, из какого** места растут у него руки_.
  
 ------
 ## Fractions
