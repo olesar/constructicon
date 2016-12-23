@@ -13,12 +13,11 @@ There are particular structures at the following levels:<br>
 still no lexical anchors except functional words (e.g. prepositions, conjunctions, etc.)<br/>
 e.g.<br> 
 * _**five miles** per **hour**_ <br/> 
-* _how **big** of a **box**_<br/>
+* _how **big** of a **box**_ ~ Fillmore's "Exocentric and headless Constructions" <br/>
 
-include many "non-typical uses of grammatical categories" associated with certain constructional properties, e.g.<br/>
-* _**Приди** она вовремя, боя бы не было_ (Imperative in conditional use, inversion) <br/>
-
-~ Non-core structures include Fillmore's "Exocentric and headless Constructions" 
+Depictive, resultative constructions (are they here?)<br/>
+Non-core structures include many "non-typical uses of grammatical categories" associated with certain constructional properties, e.g.<br/>
+* _**Приди** она вовремя, боя бы не было_ (Imperative in conditional use, inversion)
 
 ## Valence-augmenting constructions
 introduce new participants, e.g. <br/>
@@ -30,7 +29,7 @@ can be seen as a part of generalizations and non-core structures</br>
 
 ## Generalizatons upon the valency patterns
 More abstract patterns than that of individual lexemes  <= FrameNet<br/> 
-* V _pered_ NP.ins, <br/>
+* V _pered_ NP.ins, CLAUSE, _чем_ V<br/>
 * A _to_ NP.dat, <br/>
 * N _po povodu_ NP.gen<br/>
 
@@ -46,7 +45,7 @@ e.g.<br/>
 * adverbs (e.g. _изредка_)
 * _что, съел?_
 * _**Стоило** ему прийти, как все успокоились_.
-* _Я снова **было** расстроился, но тут опять зазвонил телефон.
+* _Я снова **было** расстроился, но тут опять зазвонил телефон_.
 
 -------
 ## + Multi-word structures:
@@ -61,8 +60,9 @@ The list include:
 
 ## Valency patterns with constant elements
 usually include other variables, e.g. <br/>
-* _**почувствовать** **вкус** к_ NP.dat (inherited from _(по)чувствовать _NP.acc_)
-* _дело верное_
+* _**почувствовать** **вкус** к_ NP.dat (inherited from _(по)чувствовать_ NP.acc)
+* _**переводить** **стрелки** на_ NP.acc (NP is a person)
+* _дело верное_ (also CLAUSE, _**дело** **верное**_)
 also include what is called "light verb constructions", or lexical functions applied to certain nouns
 * _**оказать** помощь_ NP.dat, _**нанести** ущерб_ NP.dat
 NB There should be a list of typologically relevant verbs, nouns, and adjectives which serve as a common source for such expression (e.g. _hold_, _go_, _say_, _do_, _give_, _take_, hand_, etc.).
@@ -86,13 +86,17 @@ no variable slots, although some variation in word order and "lexical substituti
 include proverbs and sayings
 
 ## Precedent texts
-culturally anchored fixed expressions from movies, commercials, etc.
-
+culturally anchored fixed expressions from movies, commercials, rhymes, etc.
+* _Шел. Подскользнулся. Упал. Закрытый перелом. Потерял сознание. Очнулся - гипс!_<br/>
+ => _Шел, упал, очнулся - гипс!_
+ 
 ------
 ## Fractions
 a part of above mentioned classes; the non-compositionality can be explained by 
+* _А вместо Палыча пришел Митя, **чтоб ему**, и отправил всех писать отчеты_.
 
 ## Semantic extension, rebranding, bleaching
-* кивнуть головой (> 'согласиться'), cf. Она кивнула головой на мужа.
-* VP/NP/AdvP in the distance
-* _А вместо Палыча пришел Митя, **чтоб ему**, и отправил всех писать отчеты.
+as a sourse of non-compositionality
+* _кивнуть головой_ (> 'согласиться'), != _Она кивнула головой на мужа_.
+* VP/NP/AdvP _in the distance_
+* _**Что тут делает** этот человек_? (> 
