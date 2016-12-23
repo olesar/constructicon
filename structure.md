@@ -53,9 +53,9 @@ the frequently co-occurring two or more lexically constant elements develop thei
 The list include:
 
 ## multi-word adverbs, conjunctions, parentheticals, adjectives
-* _на каждом шагу/углу VP_
-* _**нет-нет да и** VP_
-* _**не по годам** смышлен_
+* _**на** **каждом** **шагу**_/_**углу**_ VP
+* _**нет-нет да и**_ VP
+* _**не по годам**_ A
 * _**первый** **шаг** к_ NP.dat
 
 ## Valency patterns with constant elements
@@ -65,7 +65,8 @@ usually include other variables, e.g. <br/>
 * _дело верное_ (also CLAUSE, _**дело** **верное**_)
 also include what is called "light verb constructions", or lexical functions applied to certain nouns
 * _**оказать** помощь_ NP.dat, _**нанести** ущерб_ NP.dat
-NB There should be a list of typologically relevant verbs, nouns, and adjectives which serve as a common source for such expression (e.g. _hold_, _go_, _say_, _do_, _give_, _take_, hand_, etc.).
+
+NB There should be a list of typologically relevant verbs, nouns, and adjectives which serve as a common source for such expression (e.g. _hold_, _go_, _say_, _do_, _give_, _take_, _hand_, _head_, _heart_, etc.).
 
 ## Discourse formulae
 mostly fixed expressions, with variables such as addressee's name and their previous speech unit. 
@@ -91,7 +92,7 @@ also include proverbs and sayings
 culturally anchored fixed expressions from movies, commercials, rhymes, etc.
 * _Шел. Подскользнулся. Упал. Закрытый перелом. Потерял сознание. Очнулся - гипс!_<br/>
  => _Шел, упал, очнулся - гипс!_
- * _**Когда б вы знали, из какого** места растут у него руки_.
+* _**Когда б вы знали, из какого** места растут у него руки_.
  
 ------
 ## Fractions
@@ -101,5 +102,5 @@ a part of above mentioned classes; the non-compositionality can be explained by
 ## Semantic extension, rebranding, bleaching
 as a sourse of non-compositionality
 * _кивнуть головой_ (> 'согласиться'), != _Она кивнула головой на мужа_.
-* VP/NP/AdvP _in the distance_
-* _**Что тут делает** этот человек_? (> 
+* VP/NP/AdvP _in the distance_ ~ Fillmore's "Lexical idioms"
+* _**Что тут делает** этот человек_? (> 'присутствие X неприемлемо')
