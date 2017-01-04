@@ -9,7 +9,8 @@ Ekaterina Rakhilina, Olga Lyashevskaya (National Research University Higher Scho
 Daria Baryl'nikova, Kristina Bagdasarian, Maria Grabovskaya (National Research University Higher School of Economics, Moscow)
 
 ##Multilingual constructicon
-is available online at: https://spraakbanken.gu.se/karp/#?mode=konstruktikon-multi&lang=eng
+is available online at: https://spraakbanken.gu.se/karp/#?mode=konstruktikon-multi&lang=eng<br />
+An edited version is available here: https://olesar.github.io/
 <br/>Constructicon-Multi team:<br/>
 Olga Lyashevskaya and MA students of the National Research University Higher School of Economics, Moscow
 
