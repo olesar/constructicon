@@ -14,10 +14,18 @@ still no lexical anchors except functional words (e.g. prepositions, conjunction
 e.g.<br> 
 * _**five miles** per **hour**_ <br/> 
 * _how **big** of a **box**_ ~ Fillmore's "Exocentric and headless Constructions" <br/>
+* _the **more**... the **better**_
 
-Depictive, resultative constructions (are they here?)<br/>
-Non-core structures include many "non-typical uses of grammatical categories" associated with certain constructional properties, e.g.<br/>
-* _**Приди** она вовремя, боя бы не было_ (Imperative in conditional use, inversion)
+Non-core structures include many "**non-typical uses of grammatical categories**" associated with certain constructional properties, e.g.<br/>
+* _**Приди** она вовремя, боя бы не было_ (Imperative in conditional use, inversion)<br />
+
+Non-typical word order patterns, e.g.<br />
+* _в большинстве своем_ (cf. \*_в своем большинстве_), _в массе своей_ (cf. <sup>?</sup>_в своей массе_) ~ a lot of patterns among MWEs<br/>
+
+Are the following constructions "non-core" or "core"?<br/>
+* depictive constructions<br/>
+* resultative constructions<br/>
+etc.<br/>
 
 ## Valence-augmenting constructions
 introduce new participants, e.g. <br/>
