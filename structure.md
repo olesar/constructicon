@@ -3,7 +3,7 @@
 ## Core grammatical (syntactic) structures
 no lexical anchors, very abstract, very limited<br/>
 e.g. intransitive, transitive, ditransitive, aggreement, conjunction, subjunction, passive, cleft, focus, wh-question, control, relativisation construcions<br/>
-(see a sketch of English core structures as an example)<br/>
+(see a [sketch](http://www.ucd.ie/artspgs/introling/engsyndraft.pdf) of English core structures as an example)<br/>
 There are particular structures at the following levels:<br>
 * Clause level<br/>
 * Two-clauses level<br/>
