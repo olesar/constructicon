@@ -37,9 +37,10 @@ can be seen as a part of generalizations and non-core structures</br>
 
 ## Generalizatons upon the valency patterns
 More abstract patterns than that of individual lexemes  <= FrameNet<br/> 
-* V _pered_ NP.ins, CLAUSE, _чем_ V<br/>
-* A _to_ NP.dat, <br/>
-* N _po povodu_ NP.gen<br/>
+* V _pered_ NP.ins (_выступать перед публикой_)<br />
+* CLAUSE, _чем_ V (__)<br/>
+* A _k_ NP.dat (_способный к подлости_)<br/>
+* N _po povodu_ NP.gen (_вопрос по поводу отпуска_)<br/>
 
 G allows a speaker to generate new valency patterns, e.g.<br/>
 * _А они **вась-вась** с директором_ <br/>
