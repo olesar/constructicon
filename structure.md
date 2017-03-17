@@ -1,4 +1,4 @@
-#Constructicon structure
+# Constructicon structure
 
 ## Core grammatical (syntactic) structures
 no lexical anchors, very abstract, very limited<br/>
